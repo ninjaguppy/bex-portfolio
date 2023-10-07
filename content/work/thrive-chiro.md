@@ -16,15 +16,34 @@ hideExif: true
 # Thrive for Live Chiropractic
 <div class="subtitle">Website Redesign, Stationery</div>
 
-Thrive for Life Chiropractic is a holistic wellness center that provides chiropractic, massage therapy, and acupuncture services to the St. Louis region. To reflect Thrive's mission to cultivate naturalistic health, I gave their site a redesign that features organic shapes and illustrations, playful colors, and curving structure to naturally guide the eye down the page. I used the same visual language on Thrive's new print materials.
+Thrive for Life Chiropractic is a holistic wellness center that provides
+chiropractic, massage therapy, and acupuncture services to the St. Louis region.
+To reflect Thrive's mission to cultivate naturalistic health, I gave their site
+a redesign that features organic shapes and illustrations, playful colors, and
+curving structure to naturally guide the eye down the page. I used the same
+visual language on Thrive's new print materials.
 
 ## Project Goals
-When Thrive for Life came to us, their site was long overdue for a design refresh, and the visuals throughout the site were outdated and no longer represented Thrive's identity. The purpose of this website redesign was to update the look, make the site easier and more enjoyable to use, and enhance the user's experience. 
+When Thrive for Life came to us, their site was long overdue for a design
+refresh, and the visuals throughout the site were outdated and no longer
+represented Thrive's identity **and branding**. The purpose of this website
+redesign was to update the look, make the site easier and more enjoyable to use,
+and enhance the user's experience. 
 
-Since Thrive is seeking to bring a peaceful and life-enriching experience in their chiropractic practice, my goal for this redesign was to make the website contribute to those goals as well. I designed this site with the goal that it would be fun and organic to use, appeal to the target audience of chiropractic patients, and bring to mind concepts of growth, life, and wellness. 
+Since Thrive ~~is seeking~~ **seeks** to bring a peaceful and life-enriching experience in
+their chiropractic practice, my goal for this redesign was to make the website
+~~contribute to those goals as well~~ **reflect these values**. I designed this
+site ~~with the goal that it would~~ **to** be fun and organic to use, appeal to
+the target audience of chiropractic patients, and bring to mind concepts of
+growth, life, and wellness. 
 
 ## Graphics
-The graphics for the site include bunches of leaves, fun colors, and lots of curves. Thrive was looking for bright, playful visuals to allude to the happiness they hope to bring with their services. The leaves hint at the natural aspect of their practice and call back to their logo. The curvy background graphics, circles, and rounded corners everywhere, are meant to give the impression of safety, peace, and relaxation.
+The graphics for the site include bunches of leaves, fun colors, and lots of
+curves. Thrive ~~was looking for~~ **wanted** bright, playful visuals to allude to the
+happiness they hope to bring with their services. The leaves hint at the natural
+aspect of their practice and call back to their logo. The curv~~y~~***ing*** background
+graphics, circles, and rounded corners everywhere, are meant to give the
+impression of safety, peace, and relaxation.
 
 ## Styles
 
